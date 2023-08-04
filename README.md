@@ -1,6 +1,6 @@
 Hi! My name is Malika. 👋
 
-I am a web developer with experience in both programming and project management. I bring a user-centered approach to my work with a focus on communication, time management, motivation, and creativity. I can bring my unique combination of technical, creative, and leadership skills to create engaging, user-friendly digital experiences.
+Dynamic Frontend Engineer with a passion for crafting intuitive, efficient, and scalable digital solutions. Specialized in UX/UI design, I have a proven track record of creating user-centric designs backed by solid frontend development in HTML, CSS, JavaScript, and React.js. With experience implementing agile methodologies and managing technical projects, I'm adept at collaborating cross-functionally to drive product innovation. Actively seeking remote frontend engineering roles in forward-thinking agile companies.
 
 👩🏻‍💻 My strong web development skills include: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind.<br/>
 👩🏻‍🎨 Web design: Figma, Sketch, Adobe (Illustrator, After Effects, Photoshop), User Research, Wireframing, Prototyping.<br/>
